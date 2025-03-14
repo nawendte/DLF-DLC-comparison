@@ -13,10 +13,10 @@
 13. [administre]
 14. [admirab]
 15. [adusi]
-16. [aeroplén]
+
 17. [ai]
 18. [ajejaj!]
-19. [ajskrim]
+
 20. [ajœr]
 21. [akazu]
 22. [akoz]
@@ -130,8 +130,8 @@
 130. [bib]
 131. [bibij]
 132. [bifɛt]
-133. [bigbɛk]
-134. [bilding]
+
+
 135. [bim]
 136. [bimɛ̃]
 137. [bip]
@@ -139,9 +139,9 @@
 139. [bisk]
 140. [biskajɛ̃]
 141. [biskwi]
-142. [biznis]
+
 143. [bizu]
-144. [blak-dʒak]
+
 145. [blamɛ̃]
 146. [blije]
 147. [blø]
@@ -160,7 +160,7 @@
 160. [bone]
 161. [bononm]
 162. [bonœr]
-163. [boraks]
+
 164. [borne]
 165. [bot]
 166. [bra-ny]
@@ -198,8 +198,8 @@
 198. [bukɑ̃jær]
 199. [bukɑ̃n]
 200. [bukɑ̃nɛ̃]
-201. [bulduz]
-202. [bulnaif]
+
+
 203. [bulvari]
 204. [bulvær*]
 205. [bulɑ̃ʒe]
@@ -211,7 +211,7 @@
 211. [burwɛt]
 212. [burʒɔ̃nɛ̃]
 213. [bute]
-214. [butleg]
+
 215. [butɑ̃njɛ]
 216. [butɔ̃nɛ̃]
 217. [buʃri]
