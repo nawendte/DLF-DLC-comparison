@@ -1,0 +1,6278 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zeilenumbruch
+
+
+
+
+
+
+
+
+ 'allé cherché' 
+ 'boâ ein kou' 
+ 'gain goude loque' 
+ 'la barre jou' 
+ 'peigne fin' 
+ 'sac-en papier' 
+ a labri 
+ adrese la parol 
+ ale a la sèl 
+ angaje avèk 
+ anmèm dan 
+ ann anfans 
+ anon di 
+ anon wa 
+ antre rekòt 
+ antèr e anba 
+ aryen dot ke 
+ aryen pase 
+ bari charbon 
+ baryè an gri 
+ blese santiman 
+ bon laj 
+ bonn ane 
+ bouchon koton 
+ dan tan-sa-la 
+ dekon a ling 
+ depwa blan 
+ di monmon ke 
+ dibwa depèch 
+ donnen lalarm 
+ dèzyèm kouzen 
+ e dè lamen 
+ en nafèr dè 
+ fe akrwa 
+ fe enn afron 
+ fe lanbara 
+ fèzè lanbara 
+ gen laj 
+ gen latèt lou 
+ gran moun 
+ kanar franse 
+ kase lapay 
+ kayou lagrèl 
+ keu chmiz 
+ kolye an po 
+ kouri dan pret 
+ kònen komon se pou 
+ la Rivyè Rouj 
+ la pyèr anraje de la Vachri 
+ lache bèk 
+ lagrès kanfre 
+ lamanch dèryèr 
+ lane ki vyen 
+ lanje la men 
+ lanne ki pase 
+ lapoud fizi 
+ latwal zaryen 
+ lavatwar lavesèl 
+ lavyann ache 
+ lavyann bef 
+ le deu bòr 
+ leme mye 
+ mande en kèstyon 
+ mene lanbara 
+ milon patat 
+ motche sœr 
+ move lachanch 
+ mèt lamizik 
+ nenpòt ki manyè 
+ nepeng a twalèt 
+ nòm romenn 
+ o bout lanen 
+ otan lon ke 
+ pa gen afèr 
+ pa grant afèr 
+ pa tro lwen 
+ patat anglez 
+ pouse de kri 
+ pran dòrmi 
+ prenmyè lalin 
+ profite an 
+ pwatrin sèk 
+ pye lit 
+ ranje so chèvè 
+ rete trape 
+ ri jichka dan so ba vant 
+ tan dur 
+ ti gato 
+ tou abiye 
+ tou l anne 
+ tou la longè 
+ tou lafèr 
+ tou lez an 
+ vini angaje 
+ vyen andòrmi 
+'Compair Bef' 
+'Nonc Rémi' 
+'Pherbe poupie' 
+'a la rebours' 
+'allé cherché' 
+'au clair dé line' 
+'au moins' 
+'bals zombis' 
+'batte les taons' 
+'bottes sept liés' 
+'boule di fé' 
+'boâ ein kou' 
+'béte sauvage' 
+'bête sauvage' 
+'canne maïs' 
+'cannes maïs' 
+'comme djab' 
+'coup de main' 
+'cuiller à raté' 
+'en flére' 
+'faib comme ein mouton' 
+'fait gros bougue' 
+'fait la guerre' 
+'fiche pa mal' 
+'filet l'araignée' 
+'fou côté' 
+'fout une jambette' 
+'frémer à clef' 
+'fé ein salmi ave' 
+'fé la gard' 
+'fé rodomon' 
+'fé so fion' 
+'gagnin doutance' 
+'grincer so dents' 
+'halé son tchou' 
+'hors service ' 
+'hotte et bas' 
+'la barbe espagnol' 
+'la colle pacane' 
+'la poude d'or' 
+'maite cérémon' 
+'maite cérémoni' 
+'maite d'équipage' 
+'n'importe éyoù' 
+'nom dé baptême' 
+'oua boute' 
+'pa plitot qué' 
+'par exprès' 
+'patate crasées' 
+'patt ç'at' 
+'point coté' 
+'pomade camphrée' 
+'pran cher' 
+'prend la poude d'escampette' 
+'rendi au boute quarante narpen' 
+'salle dé dansé' 
+'sorti sale' 
+'tchonbo kit' 
+'temps par temps' 
+'tendé connin' 
+'à moins qué' 
+'ça et là' 
+0 vilaj 
+Afriken
+Alman
+Alègzandri
+Amerik*
+Arichmenn
+Azòr
+Baton Rouj
+Bayou Chnal 
+Bayou Chèvrey 
+Bayou Dezalmann 
+Bayou Grenn Be 
+Bayou Gros Tèt 
+Bayou Karanko 
+Bayou LaKonm 
+Bayou Lafouch 
+Bayou Ponpon 
+Bayou Siriyè 
+Bayou Sèl 
+Bayou Tèch 
+Bazil
+Bib
+Bone Kare
+Bouki
+Chemen Nef 
+Chin
+Chnal
+Dahomey
+Dimanch Ramo 
+Dyeu
+Edga
+Endyen
+Etalyen
+Federo
+Fran Koken 
+Frans
+Fèt de Dye 
+Fòs Rivyè 
+Gran Lak 
+Grond-Pwent
+Iberi
+Jan
+Japon
+Jaro
+Jezi-Kri 
+Jour deu Lan 
+Jwif 
+Kachanbo 
+Kalifourni
+Kanada 
+Karèm
+Kot-dez-Alman
+Labar
+Labati
+Lafayet
+Lafouch
+Lafrik 
+Lak Bayou 
+Lak Bourbi 
+Lak Dez Il 
+Lak Dezalmann 
+Lak Kabonn o Sip 
+Lak Kana Fronse 
+Lak Koulè Fon 
+Lak Laj 
+Lak Pirog 
+Lak Ponchartren 
+Lak Ron 
+Lak o Sol 
+Lakpot
+Lakòn Chevrey 
+Laròz
+Lavonn
+Leklenn
+Lekonm
+Lirlande
+Livonnya
+Lwizyàn*
+Mardi Gra 
+Mari Lavo
+Misisipi
+Mistik Krou
+Mègnan
+Mòm
+Nouvèl Òleon 
+Nwèl
+Pak
+Parlanj
+Parwas Lafouch 
+Paten Daik
+Pon Bro 
+Pwent Koupe
+Pòrtorlken
+Rakousi
+Rougon
+Sali Mari 
+Spagnol
+Spèrit Bondje 
+Sènyœr
+Ti Lak 
+Tousen
+Tèksas
+Tèksyen 
+Vachri
+Vandrèdi Sen 
+Ventrès
+a
+a deu 
+a fòrs 
+a kote 
+a la fwa 
+a la goch 
+a la tab 
+a la trèn 
+a lakours 
+a lamen 
+a lamò 
+a mizur 
+a pati 
+a penn 
+a prezan 
+a reubour 
+a tan 
+a tou manman 
+a travèr 
+a tèr 
+a tòr e a travèr 
+a òd-vwa 
+a-ba
+abat
+abatwa
+abitan
+abitasyon
+abitud
+abitudmon
+abitue
+abiye
+abize
+abouti
+abse
+absent
+absoluman
+ache
+achte
+achte an krèdi 
+achtè
+administre
+admirab
+admire
+adopte
+adousi
+adrese
+adrese laparol 
+adyeu
+aeroplén
+afarin mayi 
+afekte
+afiche
+aflije
+afron
+afèr
+agase
+ai
+aj
+ajen
+aji
+ajounou
+ajout
+ak
+ak de fwa 
+ak de kontrichyon 
+akazou
+akle
+akouche 
+akoz
+akroupi
+akrwa
+aksepte
+aksidan
+aksyon
+akt
+akt d amour 
+akuze*
+akòrde
+akòrdeyon
+alantour
+ale
+ale a lasèl 
+alime
+aliz
+alle tou so train 
+alman
+almanak
+alon
+alonje
+altea
+altèr
+altéré
+alyanse
+alè lòg 
+alòr
+am*
+amare
+ami
+amize
+amoureu
+amoureuz
+amson
+amèriken
+an
+an bon zimèr 
+an brik 
+an bòr isit 
+an chemen 
+an dèrnye 
+an famiy 
+an fèr 
+an galòp 
+an grimas 
+an jènèral 
+an kache 
+an kolè 
+an lanvèr 
+an ling 
+an lor 
+an loup 
+an lwa 
+an mas 
+an nivo 
+an plas 
+an plat 
+an plen 
+an plonj 
+an retar 
+an riflan 
+an rout 
+an sezon 
+an ta 
+an tet 
+an tren 
+an tòr 
+an vil 
+anba
+anbara*
+anbarase
+anbarke
+anbetan
+anboche
+anbrase
+anbète
+anddan 
+andeòr 
+andouy*
+andsou
+andsou*
+andsu*
+andure
+andòrmi
+ane
+anfan
+anfan-d-chyen
+anfan-d-gas 
+anfans
+anfen
+anfonse
+angaje
+angar
+angle*
+angourdi
+angrèse
+anhan
+anho
+ankouraje
+ankòr
+anlve
+anmnen
+anmpwazan-d-san
+anmèm
+anmèr
+anmèrde
+ann
+ann achtik 
+ann ivè 
+annaryèr 
+annavan 
+anntwa
+annwiye
+ano*
+anonse
+anpòrt
+anraje
+anran
+anrejistre
+anrole
+anrouwe
+ansanm
+ansent
+ansevli
+ansyen*
+antandi
+antoure
+antre
+antren
+antrepran
+antretyen
+antye
+antèr
+antère
+antèrman
+antète
+anvi
+anvlòpe
+anvye
+anvèr
+aout
+apa*
+apar 
+apele
+apeti
+apeupre
+apik
+apiye
+aplik
+apotikè
+aprann
+apre
+apre-midi
+aprochan
+aprouve
+apwonte
+apèrswa
+apòrte
+aranj
+aranje
+arb*
+ardi
+arete sèk 
+argo
+ariko ronm 
+ariko tann 
+arive
+arm
+arme
+arne
+arozwa
+arpan
+artezyen
+articho
+artik
+aryen
+aryen di tou 
+arègnen
+arète
+asasen
+asasine
+ase 
+ase d 
+asid
+asire
+asit
+asonsyon
+asosye*
+asourdi*
+aspik
+astœr
+aswar
+atak
+atak deu kœr 
+atake
+atan
+atansyon
+atiche
+atire
+atle
+avan 
+avan-midi
+avanse
+avant-yèr* 
+avantur
+avar
+ave lamen 
+avegle
+aveug
+avoka
+avonse kredi 
+avril
+avyon 
+avèk
+avèrti
+ayeyay! 
+ayskrim
+ayœr
+ba
+ba I œy 
+babin
+babiye
+baboun
+bachoukta
+badine
+badlòk
+bafon
+bafre
+bag
+bag promi 
+bagaj
+bagas
+bagèt
+baj
+bak
+bake
+baki 
+bakle
+bal
+bal difwen 
+bal tanmbou 
+balans
+balanse
+bale
+baliye 
+balote
+balèn
+ban
+bananye
+banbara
+banbay
+banbou
+banboula
+bandi
+bando
+bandonen
+bangou 
+bani
+bank
+banko
+bankèt
+bann
+banàn
+bap
+baptis 
+bar
+bar di fèr 
+barb
+barbi blan 
+barbi ble 
+barbi jón 
+barbi nwa 
+barbouye
+barbu
+barbye
+barbòt 
+barbòte
+barbòtèr
+barde
+bardo
+bare
+bargin
+bari
+bari charbon 
+baro
+baryè fil de fè 
+baryèr
+bas
+bas-kour
+basen
+basyè
+basèt
+bat
+bat avek pwen 
+batar
+batay
+bataye
+batenm
+bati
+batiman
+batiman-d-èr
+batis
+batistèr 
+batize 
+batmon-kèr
+bato
+bato a vapè 
+baton
+baton bale 
+baton kanndi 
+baton kanèt 
+baton koton 
+baton mayi 
+baton rido 
+baton zalimèt 
+baton-mèrdeu
+batonnaj
+batri
+batur
+batwa
+bavarde
+bavarde la djœl 
+bave 
+bay
+bay a lave 
+baye
+bayon
+bayou
+baza
+bazanne
+bazilik
+bazilikon
+bazourdi
+be
+bebe
+bebe tou nesan 
+bebèl
+beche
+begeye
+begle
+bekas
+bekas de nwi 
+beke
+beki
+bekin
+bekròch
+bele
+belye
+ben
+benefis
+benen
+bengnen
+bengnwa
+beni
+benn
+benndjo 
+bento
+berye
+bese
+betasri
+betay
+betaye
+betiz
+betize
+betrav
+bezwen
+bib
+bibit
+bibiy
+bibron
+biche dibwa 
+bidon
+bifèt
+bigbèk
+bil
+bilding
+bim
+bimen
+bin
+bip
+biro
+bisik
+bisk
+biskayen
+biskwi
+biskwi fri 
+biskwi laplòt 
+biskwi magazen 
+biskwi soda 
+bit
+bitako
+bite
+bitir
+bitòr
+biy
+biye
+biznis
+bizou
+blag
+blag 
+blak-djak
+blamen
+blan
+blan-deu-zyeu
+blan-fòse
+blan-legon 
+blanchi
+blanchur
+blese 
+blese santiman 
+bleu 
+bliye
+blofe
+bloke
+blouz
+blèktòp
+blòk
+bo
+bo jibye 
+bo maten 
+bo-fis
+bo-frè
+bo-pèr
+bobin
+bobo
+boflo
+boge
+bokal
+bokche
+bokou
+bokse
+bol
+bon
+bon cheuveu 
+bon doulè 
+bon franse 
+bon kè 
+bon lasèrvel 
+bon lenj 
+bon lèspri 
+bon maten 
+bon mòso 
+bon non 
+bon sante 
+bon tet 
+bon-aryen 
+bon-marche
+bon-tan
+bondyeu
+bone
+bonjour 
+bonmb
+bonn chans 
+bonnmon
+bonnèr
+bononm
+bonswar
+bonte
+bonten
+bonœr
+boraks
+borne
+bosko 
+boste chiko dekann 
+bosu 
+bot
+bote
+bou
+bou-d-pye-lit
+bou-d-ran
+bouboul
+bouch
+bouche
+bouchon
+bouchri
+boude 
+bouden
+bouden blan 
+boudjoum
+boug
+bouganne
+bouje
+bouk
+bouk-d-òrey 
+boukann
+boukannen
+bouke
+bouke bal 
+bouke mariye 
+boukle
+boukle chwal 
+bouko
+boukànyèr
+boul
+boul dipen 
+boul kanf 
+boulanje
+boulay
+bouldouz
+boulnaif
+boulon
+boulvari
+boulvèr* 
+boulvèrse
+boulèt
+boulòte
+boum
+bounda
+bourbe
+bourdon
+bourdoum
+boure
+bourgo
+bourik
+bourike
+bourjon
+bourjonnen
+bourjwa 
+bourle
+bourlé
+bouro
+bourwèt
+bouskile 
+bout
+bout a bout 
+bout kanndi 
+bout lenj 
+boutaj
+boutannyè
+boute 
+boutik
+boutleg 
+bouton
+bouton lafyèv 
+bouton natir 
+boutonnen
+boutèy
+bouyi
+bouyon
+bouyonnen
+bouziyaj
+bouziye 
+boyo
+boyo gra 
+bra
+bra chari 
+bra fizi 
+bra-nu
+brada
+brak 
+brake
+branch 
+branchaj
+branchi
+brankar
+branlba
+brase
+brasle
+brasyèr
+brav
+braye
+breche
+bref
+bren
+brenm 
+bretèl
+brez
+brid
+bridon
+brigan
+brignon
+brigonde
+brik
+brik savon 
+brike
+brin
+briye
+briyòch
+brize
+brode
+brok
+broken
+broket 
+bronchit
+brose
+brouyase
+brouye
+brul-soley
+brule
+brulir
+brulman
+brulman d èstoma 
+brut
+brutalize 
+bruyan
+brèchtchin
+brèchtinen
+bròs
+bròs a chve 
+bròs a lenj 
+bròs a souye 
+buch*
+buche
+buche*
+bulten 
+buten
+buti
+bwa
+bwa anmèm 
+bwa sitron 
+bwa-gra
+bwa-kolye
+bwa-mare
+bwason
+bwat
+bwat lamal 
+bwate
+bwateu 
+bwaye
+bwaze
+bwiwar 
+bwiyon blan 
+byen
+byen bati 
+byen chanje 
+byen mèrsi 
+byen peu 
+byen ra 
+byen sur 
+byen èlve 
+byennèz
+byèr
+byòk
+bè
+bèk
+bèk-fen
+bèk-si
+bèl
+bèl-danm
+bèl-dè-nwit
+bèl-fiy
+bèl-mèr
+bèl-mò
+bèl-sœr
+bèngkròp
+bèr
+bèrdase
+bèrje
+bèrnen
+bèrse
+bèrso
+bèrsèz
+bèse latèt 
+bèt
+bèt-piyant
+bòld-hed
+bòlwiva
+bòm
+bòn monyèr 
+bòr
+bòr chapo 
+bòr e babòr 
+bòr isit 
+bòrde
+bòrgne
+bòrgnon
+bòrn
+bòrnen
+bòs
+bòs milye-la 
+bòs ri 
+bòskòyò-d-sip
+bòt
+bòt de sèt lye 
+bòys
+bœf
+bœr
+cha
+cha bagaj 
+cha pasajè 
+chaba
+chadron
+chadron makak 
+chadron tandron 
+chadèk
+chagren
+chagrinen
+chak
+chakaya
+chakaye
+chaken
+chal
+chalan
+chalon
+chalèr
+chalòt
+chamaye
+chamo
+chan
+chandèl
+chanje
+chanje lèr 
+chanje nide 
+chanm
+chanm a ben 
+chanm a kouche 
+chanpoura
+chans
+chanse
+chanson
+chante
+chantye
+chantèr
+chantèz
+chaple
+chapo
+chapon 
+chapòne
+char
+char fret 
+charabon
+charabya
+charbile
+charbon
+chare
+chari
+charibari
+chariot sèk 
+chariot vèr 
+charitab
+charite
+charj
+charje
+charnyèr
+charongn
+charpantye
+charte
+charye
+charèt
+chas
+chase
+chasfonm
+chasi
+chasparèy
+chasèr
+chat farouch 
+chat maron 
+chati
+chatig
+chatouyan
+chatouye
+chavire
+chawi
+chaynola
+che 
+chechèr
+chechèr disik 
+chemen travèr 
+chengnen
+cheri
+cherif
+chese
+chetif
+cheuveu
+cheuvronn
+cheuvrèt deu mèr 
+cheuvrèt flœv 
+cheuvrèt lak 
+chevrèt
+chevrèt vèr 
+chevrœy
+chich
+chichikwa
+chie konm Anri Kat 
+chifonnen
+chifròb
+chik
+chikann
+chikannen
+chike
+chiko
+chiko narb 
+chikore
+chikotèz
+chimij anlé 
+chimij anmba 
+chimij de po 
+chimis
+chimiz
+chimiz dedsou 
+chimnen
+chinen
+chini
+chipe
+chisnaid
+chitrwayen
+chmen
+chmen-de-fèr
+chnal
+chnen
+cho
+chochon
+chode
+choden
+chodyèr
+chofe
+chokan
+choke
+chokola
+chonje nide 
+chopin
+chose
+chou
+choubouli
+chougra
+choupik 
+chov
+chovèl
+choz
+chu
+chval
+chval-djab
+chviy
+chviye
+chwal lasel 
+chwazi
+chwini
+chwèt
+chya
+chye
+chyen
+chyen a pèrdri 
+chyen tayo 
+chyen-cho
+chyen-dan
+chèche tren 
+chèd
+chèf
+chèj
+chèj boure 
+chèj ho 
+chèmen lakrwa 
+chèmenn a tè 
+chèn
+chèn vèr 
+chèr 
+chèrche
+chèrche pou 
+chèrmen
+chèrpont
+chèvreu-fey
+chèvrèt lavaz 
+chèvrèt sek 
+chòp
+chòt
+d en kote 
+d en kou 
+dabòr 
+dakòr
+dal
+dam
+dan
+dan bon lalin 
+dan en oura 
+dan l traka 
+dan la journen 
+dan lete 
+dandi 
+dane
+danje*
+danjerè
+dans
+danse
+danse latcheu rèd 
+danseuz
+dansœr
+dantis
+dantèl
+dapre
+dar
+dardar
+darde
+dart
+daryen non 
+dat
+date
+daypin
+de
+de 
+de fil resiste 
+de kote 
+de sòrt ke 
+de ò trwa 
+de-latet
+deanche
+deba
+debarase
+debarbouye
+debare
+debarke
+debat
+debatman
+debay
+debite
+deboche
+debouche
+deboule
+debourbe
+debout
+debout drwat 
+debout on 
+debri
+debruti
+debòrde 
+decharje
+decheche
+dechire
+dechonje
+dechose
+dechou-flè
+deden
+dedi
+defan
+defans
+defanse
+defe
+defek
+defen
+defig
+defo
+defrechi
+dega
+degan
+degize
+degizman
+deglan
+deglann
+dego
+degobe
+degobye
+degonfle
+degou
+degoute
+degreye
+degrouye
+degrèse
+degòrje
+deja
+dejire
+dejwente
+dejœne
+dek
+deklare
+deklen
+deklen lalin 
+deklinen
+deklou
+dekloue
+dekole
+dekoupe
+dekouraje
+dekouvri
+dekouvèr
+dekrase
+dekroche
+dekòre
+delanm
+delase
+delegasyon
+deleye
+delika
+delir
+delivre
+delod
+deloje
+delouj
+demand
+demanje
+demanjezon
+demanti
+demare
+demele
+demen
+demenaje
+demi
+demi 
+demi dat 
+demi dou 
+demi katrinèl 
+demi nwar 
+demi-èr
+demlon dolo 
+demolaje
+demon
+demonte
+demoralize
+demouch a vèr 
+demouch chwal 
+demèle
+deniche
+denn
+denonsen
+depan
+depans
+depanse
+deparle
+depaye
+depech konmin 
+deperi
+depi 
+depis
+depliye
+depo
+depole
+depou mayi 
+depouy
+depoze
+depwa dou 
+depwa rouj 
+depye
+depèch a ji 
+depèch kochon 
+depèche
+deranje
+deranjman
+derape
+deredi
+derik
+derive
+derobe
+deroute
+desalèy
+desan
+desanm
+desann
+desen
+desi 
+deside
+desinman
+desizyon
+desoule
+desèr
+det
+detache
+detenn
+detourne
+detrwi
+detèstab
+detèste
+detòrd
+detòrtiye
+deu
+deu 
+deuzyèm 
+devan
+devin
+devinen
+devinè
+devise
+devlope
+devore
+devwa
+devyen
+deyòr 
+dezabitwe
+dezaf
+dezagreab
+dezalmann
+dezanfle 
+dezannwiye
+dezapwente
+dezarmen
+deze dir 
+dezen mole 
+dezeu mole 
+dezo
+dezole
+dezose
+dezèf melanje 
+dezèf mou 
+dezèr
+dezèspere
+dezònòre
+dezòrd
+dezœf
+dezœf lakou 
+di
+di lé 
+di pou tannde 
+di sou an chak pyas 
+di-sou
+dible
+dibri
+dibwa
+dibwa Nwèl 
+dibwa dekonn 
+dibwa depech 
+dibwa depòm 
+dibwa gonbo 
+dibwa lila 
+dibwa morèt 
+dibwa sasafra 
+dibèr
+didòk
+dife
+diferan 
+diferans
+difikulte
+difil koton 
+difil laswa 
+difisil
+difwen
+dig
+dign
+dignite
+digri
+diji
+dikrepsi
+dikte
+dile
+dile kaye 
+dimanch
+dimanch ramo 
+diminwi
+dimyèl
+dine
+dipa
+dipen leve 
+dipen mai 
+dipen patat 
+dipen pèrdi 
+dipfrizeu
+diplon
+dipo
+diptèri
+dipwav
+diri
+diri gren lon 
+diri gro neg 
+diri kourt 
+diri o fèv 
+diryon
+dirèk
+dirèksyon
+dis
+dis-sèt 
+disan
+disan klè 
+disel a gro gren 
+disik blan 
+disik jón 
+dison ho 
+disontri
+disoud
+disparèt
+dispit
+dispite
+distans
+distenge
+distraksyon
+diswif
+disèl
+disèl a pirje 
+disèl gro gren 
+disèl latab 
+dite
+dite mouton 
+diven
+diven soko 
+divize
+divèn
+divòrs
+divòrse
+diz-nèf 
+diz-uit 
+dizeul
+dja
+djab
+djab-bouyi
+djabay
+djablès
+djaboun
+djare
+djinkèlmèn
+djob
+djompa
+djounya
+djyaman
+djòg 
+djœl
+do
+do 
+do bosi 
+do d lamen 
+do si do 
+dob
+dob glase 
+dodo
+dofen
+doktè pou dezo 
+doktèr dè betay 
+doktœr
+dolo
+dolo ho 
+dolo kiraj 
+dolo troub 
+domaj
+domaje
+domijàn
+domino
+domèstik
+don
+don 
+don tou 
+done
+donmbo
+donn bwa 
+donn lamen 
+donn pou go-enn-konm 
+donn pou kouri e vini 
+donne leu sen 
+donnen lalarm 
+donte
+dontisyon
+dou
+doub
+double
+doublœjup
+doudous
+doulèr akouch 
+doulœ
+doulœ frèt 
+dousman 
+dousœr
+doutans
+doute
+douz 
+douzenn
+dra
+drage
+dragon
+draiv
+draje
+drapo
+dren
+drese
+dri
+drigay
+drwa
+drwat
+drwat 
+drwat karemon 
+drwat la 
+drwati
+drwatye
+dròg
+dròl 
+dufil matla 
+duplan
+dur 
+durant
+dure
+durouj
+dursi
+dusan dou 
+dusèl de klo 
+dusèl èpsann 
+duve
+dwa
+dwa chyen 
+dwa milyeu 
+dyabèt
+dyèt
+dè fòrs 
+dègrè
+dèmokrat 
+dènyè non 
+dèpartemon
+dèrnye
+dèryè so kou 
+dèryèr
+dèryèr 
+dèryèr-isi
+dèzyèm kouzin 
+dòbl-èfèk
+dòminik
+dòn anvi 
+dòn en pye 
+dòn houdou 
+dòn kouraj 
+dòn lafrèch 
+dòn malad 
+dòn tète 
+dòne chmen 
+dònè bèk 
+dòre
+dòrmetik
+dòrmi
+dòrur
+dòz
+dœy
+e
+e 
+echape
+echel*
+echofe
+ede
+edlenn
+edukasyon*
+eduke
+efase
+efreye
+efè
+eg
+egal
+egalite
+egare
+egliz
+egrenne
+egri
+egwiy*
+ekay*
+ekimen
+ekiri
+ekla*
+eklate 
+eklo
+eklèr*
+ekoute
+ekraze
+ekri
+ekritur
+eksile
+ekspre
+ekèr
+ekòl
+ekòlye
+elastik
+eleksyon
+elekte
+elve
+elèktrik* 
+elèktrisite*
+emòrvid
+en
+en bon bout 
+en bon ti kou 
+en bout tan 
+en bòr 
+en dan se jou-ye 
+en lot fwa 
+en lòt kichò 
+en tan 
+en ti bren 
+en ti momon 
+enbesil
+enbibe
+endepandan
+endijèsyon
+enfèksyon
+enfòrmen
+enjustis
+enjèkte
+enkyete
+enn
+enn fwa 
+enn-a-lòt
+enpasyan
+enprès
+enpòsib
+ensi
+ensilt
+ensolan
+enstale
+enstri
+ensultè
+ensèk
+entande
+entere
+enteresan
+enterèse
+entik
+entrige
+entrodwir
+entèlijan
+envitasyon
+envite
+envizib
+enòrm
+epe
+epenglèt
+epengn
+epesi
+epi-mai
+epina
+epol*
+epoustwar
+epouvante
+epwize
+epèsœr*
+erite
+eron
+eron blon 
+eron gri 
+erè
+eseye
+eskran
+esoufle
+espesyalmon
+espyone 
+estonpe
+eta
+etajè
+etalon
+etidye
+etoufe
+etourno
+etranje
+etrwa
+etwal
+etèrnwe
+etònan
+etòne
+evapòr
+evèk
+evèk 
+fab
+fache
+fache apre 
+fad
+faiyte
+faktri
+fal
+fam
+fami
+familyèr
+famiy
+fanal
+fanfaran
+fanfelich
+fanme
+fann
+fannen
+fant
+far
+farin
+farin fronse 
+farinen
+farmasi*
+farmasyen
+farmye
+faro
+farouch
+farouse
+fars
+farsi
+fas
+fasil
+fason
+fatig
+fatige
+fatra
+favèr
+fe
+fe atansyon 
+fe bal 
+fe ben 
+fe chie 
+fe de betiz 
+fe di byen 
+fe di mal 
+fe disan bouyi 
+fe dolo 
+fe en bon 
+fe en lapriyè 
+fe en lavi 
+fe enn grimas 
+fe espre 
+fe fache 
+fe fars 
+fe flè 
+fe fouraj 
+fe fòn 
+fe gro zye 
+fe grosri 
+fe jarden 
+fe kar 
+fe karèm 
+fe komèrs 
+fe kone 
+fe konmpran 
+fe kont 
+fe koukou 
+fe kredi 
+fe kwi 
+fe kòm 
+fe kòmisyon 
+fe l tour 
+fe la rout 
+fe lachas 
+fe lakour 
+fe lakous 
+fe lakònesans 
+fe lamizè 
+fe lapèn 
+fe larjan 
+fe lasenn 
+fe le zela 
+fe li 
+fe lougarou 
+fe makak 
+fe manje latè 
+fe monje lamèd 
+fe mye 
+fe myeu 
+fe mèg 
+fe ni èn ni de 
+fe nwar 
+fe pari 
+fe payas avèk 
+fe pipi 
+fe pouse 
+fe pèr 
+fe rekòlt 
+fe san 
+fe sanblan 
+fe sek 
+fe sin lakrwa 
+fe so disan cho 
+fe so vantèr 
+fe sosyete 
+fe sèrmon 
+fe traka 
+fe tren 
+fe vini 
+fe vit 
+fe vwazen 
+fe wa 
+fe zeklè 
+fe zonèr 
+fe èsplike 
+fe-dodo
+feb
+feblès
+femèl
+femèl bourik 
+fen
+fen-la-smenn
+feri
+fet Valantin 
+feu
+feuraiy
+fevi
+fevye
+fey
+fey lorye 
+feyaj
+feye
+fezon
+fi-d-gars 
+fi-d-puten
+fich a lapòrt 
+fiche
+fid
+fie
+fifole
+figire
+figur
+figye
+fiktis 
+fil
+fil a kroche 
+fil de fè 
+fil nagne 
+filan
+file
+filozòf
+fin
+fini
+fini fè 
+fini lekòl 
+finèt
+firye
+fis 
+fiy
+fiy ki janme kase 
+fiy ki janmen kase 
+fiy-d-onèr
+fiyo
+fiyèl
+fizi deu kou 
+fizi en kou 
+fizi si kou 
+fiè fevi 
+flakon
+flan
+flannèl
+flate
+flatœr
+flavœr
+fleri
+fleuv
+flijè
+fliksyon
+fliksyon pwatrin 
+flote
+flou
+flouk
+flout
+flè fevi 
+flè rozye 
+flè soley 
+flè souf 
+flèch
+flès
+flòmon
+flœr
+fo
+fo pa 
+fofile
+fon
+fon kulot 
+fon lachèz 
+fondasyon
+fonksyon
+fonm e nonm 
+fonn
+fonse
+fontenn
+fontèn
+fore
+fortun
+fose
+foskouch
+fotografi
+fotœj
+fou
+fou ann 
+fou deyò 
+fou dife 
+fou pa mal 
+fouiy-mèrd
+foule
+foulir
+foulri
+fourbu
+fourch
+fourch lestoma 
+fourchèt
+fourchèz
+foure
+fourni
+fourno
+fout
+foutaje
+foutimon
+foutrike
+foutrou
+foutu
+fouyaiye
+fouye
+fouye fose 
+frajil
+frak
+fraka
+fran
+franj
+franse
+frap-dabòr
+frapan
+frape
+fraz
+fre
+frechman
+fredi
+fredèn
+frekantasyon*
+frekante
+frengan
+fret
+fri
+frijidèr
+frikase
+friko
+friko patat 
+friksyonnen
+frim
+friskata
+frison
+frison potrin 
+frize
+frode
+fromaj
+fromi
+fromon
+fron
+fronse
+fronte
+fronté
+frote
+froteuz
+frotwar
+froubi
+froufrou
+frèch
+frèn
+frèr
+frèz
+fròm
+fume
+fumye
+fuzi
+fuziye
+fuziyman
+fwa
+fwa blan 
+fwa dir 
+fwa mou 
+fwa nwar 
+fwataj
+fwatèz
+fwaye
+fwin
+fwèt
+fwèt a bef 
+fwète
+fyanse
+fyev skarlatin 
+fyon
+fyout
+fyèl
+fyèr
+fyèv
+fyèv deu ra 
+fyèv lant 
+fyòl
+fè
+fè lamin 
+fèr
+fèr a chval 
+fèr a pase 
+fèr fas 
+fèr-blan plat 
+fèr-blan vesèi 
+fèr-blan vesèl 
+fèrm
+fèrm*
+fèrme
+fèrmen deyòr 
+fèt
+fèt konmpran 
+fèt-kache
+fèv
+fèv plat 
+fèvriye
+fé en laboukonn 
+fé sign 
+fòk
+fòr
+fòrdòch
+fòrj
+fòrje
+fòrjœron
+fòrmen
+fòrmon
+fòrs
+fòrsa
+fòrse
+fòs
+fòsœr
+fòsœr dusuk 
+fòt
+ga twa 
+gabari
+gabrièl 
+gachèt
+gad parèy 
+gagne
+gagne tan 
+gagnen pitye on 
+gagnin boucou tracas 
+gagnin train 
+gaj
+gal
+gala
+galdri
+gale
+galere
+galimacha
+galize
+galo
+galon
+galope
+galope pou plas 
+galopœr
+galèr
+galèt
+gamèl
+ganach
+ganar
+ganbye
+ganyen on 
+gar-de-zyeu
+gar-manje
+garaj
+garanti
+gard
+gard byen 
+gard-soley
+garde
+garde kòm si 
+garde pou 
+gardeu-fou
+gardyen
+gardœr-deu-vèseyl
+garfètœr
+gargali
+gargalize
+gargoton
+gargàn
+garni
+garoche
+garofye
+garote
+gars
+garson
+garsonyèr
+gaspiye
+gate
+gate dèriè 
+gato
+gato banann 
+gato chokola 
+gato deponm 
+gato jiromon 
+gato koko 
+gato labwi 
+gato limon 
+gato patat dous 
+gato roule 
+gato siro 
+gato sitron 
+gavyon
+gavyònen
+gayar
+gaz
+gazolin
+gazon
+gazèt
+ge
+gem
+gem*
+gen
+gen bon sante 
+gen bon-ton 
+gen don sa tèt 
+gen dwa lon 
+gen en bouch sal 
+gen en gren d foulri 
+gen en gro vont 
+gen kekenn 
+gen kolik 
+gen l suk 
+gen labouch dou 
+gen lachans 
+gen lalang ki koup dè kote 
+gen lalang long 
+gen latet dur 
+gen li byen 
+gen lè 
+gen lèspri 
+gen non a 
+gen onvi 
+gen pou
+gen ti bebe 
+gen ti janm kòm en ti titis 
+genble
+geng
+genn mont 
+genon
+gep
+geri
+gerison
+geule
+gid
+gide
+gilen 
+gimòv
+ginen
+gitar 
+gize
+glase
+glasyè
+glims
+glimse
+glise
+glwar-o-pèr
+gnòmgnòm
+go-enn-konm
+goble
+goch
+goche
+godich
+godron
+godrone
+gogo
+gole
+gon
+gonbo
+gonbo fevi 
+gonbo file 
+gonbo klo 
+gonbo vèr 
+gonbo zèrb 
+gonf
+gonfle
+gonye èk 
+gou
+goudlòk
+goudou
+gouf
+goujon
+goulo
+goulou
+gouloupya
+gourd
+gourman
+gout
+goutchyè
+goute
+gouvènœr
+gouvèrne
+gouvèrneumon
+gozye
+gra
+gradwe
+grafignur
+grafiyen
+gran 
+gran ariko 
+gran bout 
+gran lapre-midi 
+gran-gou
+gran-maman*
+gran-mèr
+gran-ouvè
+gran-papa
+gran-paran
+gran-piti
+granchoj
+grandi
+grandè
+granman
+grannd-fiy
+grantèr
+grap
+gras
+grate
+graton
+gratèl
+gravwa
+gref
+greg
+greg kafe 
+grek
+gremite
+gren
+grenad
+grenn
+grenn moutard 
+grenn-a-vole
+grennen
+grenni
+grennyole
+grenpe
+grense
+gri
+grif
+grife
+grifye
+grigri
+grimas
+grimase
+grimi
+grip
+griv
+griyad
+griyante
+griye
+griyon
+grizat
+grizonne
+gro
+gro bòs 
+gro chyen 
+gro fonm 
+gro kiyèr 
+gro kreol 
+gro ladjèl 
+gro lafyev 
+gro lafyèv 
+gro lapli 
+gro larjan 
+gro latèt 
+gro lòrtèy 
+gro misyeu 
+gro nèg 
+gro tan 
+gro-bèk
+gro-rouj
+grole
+gron galo 
+gronde
+gront-o
+gronye
+gros
+grosi
+grosi vayan 
+grosri
+grosèr
+grouye
+grouye so dèryè 
+grouye ye latet 
+gru
+grègnen
+grènaj
+grès
+grèse
+grœnase
+grœnouy
+gwalon
+gwat
+gèr
+gèr sivil 
+gète
+gòb
+gòl
+gòlf
+gòm
+gòm elastik
+gòm elastik 
+gòmbo blan 
+gòmbo kribis 
+gòmbo tcheuvrèt 
+gòn
+gòre
+gòrj
+gòrje
+gòs
+gòs chalot 
+gòs koton 
+gòs lay 
+hach
+hache
+hadiya
+hai
+hal
+hale
+hale son tchou 
+halo
+hamak
+han
+hanch
+hape
+hapskat
+harase
+hayon
+hayonnen*
+he
+helaye
+hele
+hibou gro latet 
+hirle
+hise
+ho
+ho 
+hobo
+honm
+hou
+hou-wa
+houdou
+houlale
+houpla
+houra
+hèle en kri 
+hèrs
+hèrse
+hòl
+hòs
+ibou
+ibou a konn 
+ich pou 
+ide*
+ifo mje 
+il
+im
+imajinasyon
+imite
+imèkte
+ina
+ini
+inosan
+ipoteke
+ipotèk
+irin
+irine
+irondèl*
+is
+is sèk 
+isi
+isi e laba 
+iskek
+istwar*
+iti
+itou
+ivèr*
+ize
+j 
+jabote
+jak
+jakase
+jakèt
+jalou
+jalouzri
+jame
+jan
+jan bari
+jan koupan
+janbèt
+janikek
+janm
+janm an bwa 
+janm an lyèj 
+janm krapo 
+janmbalaya
+janmbalaya defèv 
+janmbe
+janmbon
+jann
+jansiv
+janti
+janvye
+jape
+jar
+jarbye di
+jarden
+jardinaj
+jare
+jargònen
+jasmen
+jasmen franse 
+je
+jean
+jen jan 
+jeneflik
+jenen
+jeneral
+jenerasyon
+jenga
+jete o do 
+jeu
+jeudi
+jezye
+jibye
+jichka kote 
+jig
+jigo
+jigote
+jile
+jin
+jin onm 
+jipon
+jiromon
+jiromon patat 
+jironmyonm dou 
+jironmyonm pwason 
+jironyam
+jis pa 
+jistis
+jle
+jnou
+joli 
+joliman
+jolye
+jonat
+jongle
+joni
+jonis
+jou
+jou de Nwel 
+joufle
+joujou
+jouke
+joukwa
+jour
+jour avan 
+jour de Nwel 
+jour de Pak 
+jour deu fèt 
+jour deu tan 
+jour jòrdi 
+journen
+journo
+jouèr
+jouèr laplòt 
+joze
+juen
+juj
+juj de pe 
+juje
+jujman
+julyèt
+jumo
+jumon
+jumèl
+jup
+jure
+juri
+jurmon
+juska 
+juska tan 
+just
+justeuman
+jwa
+jwe
+jwe e 
+jwe kanik 
+jwe kart 
+jwe lamuzik 
+jwe laplòt 
+jwe lekòl 
+jwe ti madam 
+jwenn
+jwent
+jwentir
+jwon
+jèn boug 
+jènn
+jèrmen
+jèrse
+jèt-dolo
+jète
+jòb
+jòromo kou lon 
+jón
+jœn
+jœn jou 
+jœn onm 
+jœnès
+ka
+ka t a fini konnè 
+kab
+kabale
+kabinèt
+kabo
+kabose
+kabouch
+kabre
+kabri
+kabàn
+kabòch
+kachanbo
+kache
+kache-fwèt
+kache-moun
+kacheu
+kachkach
+kachkach-nikola
+kachmir
+kad
+kadav
+kadjen
+kadjin
+kadna
+kado 
+kadril
+kafe
+kafe o le 
+kafe sovaj 
+kafe ver 
+kagou
+kaiman
+kaj
+kak
+kaka
+kakasya
+kakatwar
+kala
+kalabous
+kalakaloun
+kalalou
+kalbas
+kaldo
+kaldron
+kale
+kalen
+kalifourchon
+kalimason
+kalin
+kalinda
+kalite
+kalkile
+kalkontchis 
+kalkul*
+kalm
+kalme
+kalokenn
+kalomel
+kalosi
+kalson
+kalèn
+kalòt
+kam
+kamarad
+kamilya
+kamizòl
+kamomèl
+kan
+kan pou
+kan-mèm 
+kana branchi 
+kana bèk-si 
+kana denn 
+kana dibwa 
+kana dou 
+kana fronse 
+kana kreyòl 
+kana mikwonn 
+kana mile 
+kanadyèn
+kanal
+kanar
+kanar dibwa 
+kanar dou 
+kanar nwar 
+kanay
+kanayri
+kanbiy
+kanbre 
+kandi
+kandida
+kandjo
+kanf
+kanfre
+kangrenn*
+kanko
+kankrit
+kann
+kann chovaj 
+kann maron 
+kannik
+kanon
+kanpagn
+kanpe
+kanpe dan l kwen 
+kanpe dibout 
+kansidère
+kansomen
+kantchye
+kantik
+kantin
+kantite
+kantonn
+kantyèm
+kanèl
+kanèt
+kanèt maron 
+kap jonn 
+kap soley 
+kapab
+kapare
+kapichon
+kapitenn
+kapkap
+kapo
+kapo lapli 
+kapo sire 
+kapon 
+kaporal
+kapote
+kapsil
+kar
+karabin
+karakole
+karaktèr
+karamèyl
+karankro
+karanmbòle
+karant 
+karantinen
+karbòlik
+kardap
+kardinal
+kare
+kare latè 
+karemon
+karese
+kariyon
+kariyòl
+karkas
+karle
+karnasyèr
+karnaval
+karo
+karp
+karp blan 
+karp rouj 
+kart
+karti
+kartoch
+karton 
+kartouch
+kartye
+karvèl
+karòs
+karòt
+kas-tèt
+kasav
+kasaye
+kase
+kase lalwa 
+kase lapay 
+kase latè 
+kase santiman 
+kasin
+kaspilèr
+kaspèrgou
+kastòr
+katafalk
+katalpa
+kataplas
+katarak
+katechis
+katen
+katolik 
+katr 
+katre-ven 
+katre-ven-dis 
+katriyenm 
+katòrz 
+kavalri
+kavalye
+kavo
+kawenn
+kawtchou
+kay
+kay-di
+kaye
+kaye-egoute
+kaymòl 
+kayou
+kaz
+kazye
+ke
+ke djab
+ke kalite 
+ke monyèr 
+kechòp
+kek mwòyen 
+kenn
+kennen
+kenp
+kent
+kento
+kenz 
+kete
+keu
+keu chmij 
+keu-cha* 
+keu-d-ra*
+ki
+ki 
+ki kantyenm 
+ki kantyèm 
+ki moun 
+ki vyen 
+kidni
+kikiribou
+kiklit
+kilbite
+kilot
+kilot kòt 
+kinin
+kir-dimyèl
+kiraj
+kirye
+kit
+kit-nwayo
+kite
+kite trankil 
+kivèt
+kiyere
+kiyèr disik 
+kizinyèr
+klak
+klake
+klarisye
+kle
+klennen
+kler
+klians
+klo
+klo dikann 
+klou
+klou kare 
+klouk
+klouwe
+klèr
+klèrinet
+klèrmon
+klèrsi
+klèrte
+klòb
+klòch
+klòchar
+kobi
+koche
+kochon
+kochon farouch 
+kochon maron 
+kochonnri
+kochonyen
+koke 
+koken
+kokin
+kokine
+kokinri
+kokiy
+koko
+koko-zye
+kokodri
+kokonm a lodè 
+kokòm
+kol
+kole
+kole apre 
+kolibri
+kolidòr
+kolik
+kolmoro
+kologn
+kolonb
+koloni
+kolonm
+kolta
+kolye
+kolye an bwa 
+kolèj
+kolèksyon
+kolèkte
+kolèr
+kolèr apre 
+kolòy
+koman
+komande
+komanse
+komedyen
+komen
+komifo
+komon lonton 
+komèr
+komèrs
+komèrs de neg 
+komèrsyèz
+komèt
+konbine
+konbyen 
+konchitrwayen
+kondane
+kondisyon
+konduit
+kondwi
+kone
+kone mye 
+kone pa en fout 
+konfedere 
+konfesional
+konfirmasyon
+konfirmen
+konfiske
+konfitir
+konfyans
+konfèse
+konfèsyon
+kongo
+kongrele
+kongri
+kongrès*
+konm
+konm kwa 
+konm sa 
+konm si konm sa 
+konng
+konnu
+konpagni*
+konparab
+konpare
+konple
+konplen
+konplentè
+konplike
+konpliman
+konplis
+konpozisyon
+konpran
+konprann enn-a-not 
+konpres
+konpromèt
+konprœnab
+konpèr
+konpèr-loryo
+konpòrte
+konsan
+konsekans
+konsilte 
+konsitman
+konskripte
+konsole
+konsontiman
+konstab
+konstipasyon
+konstipe
+konsyans
+konsèr
+konsèrve
+konsèsyonnèr
+konsèy
+konsèye
+kont
+kont lalwa 
+kontak
+kontan
+kontante
+kontantman
+konte
+konte apre 
+konte su 
+kontinue
+kontinèlman
+kontrasyon
+kontrayan
+kontraye
+kontrisyon
+kontrol*
+kontrole
+kontrèr
+kontè
+konvnab
+konvèrs
+konvèrsasyon
+konvèrti
+konèkte
+kopal 
+kopi
+kopo
+korde
+koreyi
+korich
+korèk
+kosyon
+kote
+kote gòch 
+kote-si kote-la 
+koton
+koton jòn 
+koton pluche 
+kotongnen
+kou
+kou achte 
+kou apre 
+kou lagè 
+kou-kache
+koubiyon pwason 
+kouch
+kouche
+kouchkouch
+koucho
+koud
+koukou
+koukouroukou
+koulwar
+koulè
+koulèr 
+koulœv
+kounan
+koundja
+koundjay
+kounout
+koup
+koup en lalwa 
+koupab
+koupan
+koupaye
+koupe
+koupe an travèr 
+koupe lafyèv 
+koupe legaj 
+koupe lèb 
+kouplè
+koupon
+koupur
+koupèr dekon
+kour
+kouraj
+kourbe
+kourbouyon
+kouri
+kouri a lasèl 
+kouri bal 
+kouri chèrche 
+kouri en kote 
+kouri lachas 
+kouri lekòl 
+kouri pou 
+kouri-vini
+kouronaj
+kourpyon
+kours
+koursaye
+koursayœr*
+kourse
+kourt
+kourtepwant
+kourtize*
+kouròn
+kout
+koute
+koute lekòl 
+kouti
+kouto
+kouto a de manch 
+kouto dekoupe 
+kouto diri 
+kouto labouchri 
+kouto latab 
+koutriyez
+koutum
+kouvan
+kouve
+kouvri
+kouvèr
+kouvèrt
+kouvèrtur
+kouvèrtur an bwa 
+kouvètu d oryeu 
+kouy
+kouyon
+kouyonad
+kouyòne
+kouzen
+kouzen distans 
+kouzin
+koze
+koze 
+kozeuz
+krab
+kracha
+krache
+krak
+krake
+kranp
+kransiyòl
+kraou
+krapo
+kras 
+krase
+kravat
+kre
+kre lèstoma 
+kredi
+kreditè
+kren
+krepi
+kret-de-kòk
+kretyen
+kreu
+kreu d lamen 
+kreu du pye 
+krev de fen 
+krevas
+kreve
+krevis
+kreyon
+kreyon a plim 
+kreyon on nonk 
+kreyòl 
+kreze
+kri
+kriatir
+krignen
+krikèt
+krim
+kriminèl
+kriote
+krismis
+kristèr
+kriye
+kriz
+kriz de nèrf 
+krizantenm
+kro
+kroba
+kroch
+kroche
+krok
+kroke
+krokjirak
+krote
+kroup
+krouston
+krout
+krozòf
+kru
+kruch
+krwa
+krwaze
+krèch
+krèm
+kròk
+kròk-mòr
+kròt
+kule
+kultivatè
+kultivè
+kurèy
+kwak
+kwakœ
+kwart
+kwat
+kwen
+kwense
+kwi
+kwilt
+kwis
+kwit
+kwiv
+kwizin
+kwàn
+kwèt
+kè brile 
+kèk
+kèk a lagrès 
+kèk-fwa
+kèk-par
+kèk-plas
+kèk-zafèr
+kèkchoz
+kèkenn
+kèl 
+kès
+kèske sa
+kèstyon
+kèstyonen
+kèt
+kètcha
+kòchmar
+kòfre
+kòfè 
+kògnak
+kògnen
+kòk
+kòk batay 
+kòk dezèf mole 
+kòk dòminik 
+kòk jenga 
+kòkodenn
+kòkòrbye
+kòkòt
+kòl
+kòl chimij 
+kòm 
+kòm si 
+kòmandan
+kòmandœr
+kòmansman
+kòmi
+kòmin
+kòmisyon
+kòmunye
+kòmunyon
+kòmòd
+kònesans
+kòp
+kòr
+kòral
+kòrbiyar
+kòrbo
+kòrbèy
+kòrch
+kòrchaz dedsi 
+kòrche
+kòrd
+kòrde
+kòrdon
+kòrdon souye 
+kòrdònye
+kòrn
+kòrna
+kòrne
+kòrnen
+kòrney
+kòronèl
+kòrsaj
+kòrse
+kòrèl
+kòstum
+kòstumen
+kòt
+kòt a kòt 
+kòte pou kòte 
+kòtònad
+kœr
+l'herbe poupié' 
+la
+la Grann Be 
+la Sen Meda 
+la fyèv jonn 
+la ke 
+la mye 
+la tit kòmiyon 
+la vey Pak 
+la vey jour deu Nwal 
+la vey la Tousen 
+la-ba
+la-dedan
+lablèt
+laboure
+labri
+labwi
+lachas
+lache
+lache bèk 
+lache louvraj 
+lachmon
+lacho
+lachoukourout
+lachèr
+ladoublir 
+ladrag
+ladrès
+ladwèn
+laenn
+lafamin
+lafayans
+lafich
+lafisèl
+laflenm
+laflè siro 
+lafwar
+lafyèrte
+lafyèv frisan 
+lafyèv ho 
+lafyèv jòn 
+lafyèv malèrya 
+lafyèv tifoid 
+lafyèv tranasont 
+laglas
+lagli
+lagnap
+lagrat
+lagrenn koton 
+lagrèl
+lagrès kanfre 
+laissé tranquille 
+lajol
+lak
+lakav
+lakiv
+lakomedi
+lakou kochon 
+lakou suprèm 
+lakour dikann 
+lakoutir
+lakre
+lakrenm de tart 
+lakrenm tart 
+laksan
+lakòd dœ lonbri 
+lakòkluch
+lakòmiyon inosan 
+lalanj
+lalen
+lalin plen 
+lalin ranpli 
+laling a pèche 
+lalo
+laluminonm
+lalun feb 
+lalun fo 
+lalve
+lalyann patat dous 
+lalyans
+lalyòn defev 
+lalyòn demi 
+lalyòn rezen 
+lam
+lamanch
+lamanch chimiz 
+lamanch devan 
+lamaran
+lamaran dennye do 
+lamen gòch 
+lamezon blan 
+lamezon pitenn 
+lamias
+lamidon
+lamin
+lamitye
+lamizman
+lamone
+lamonya
+lamoulen
+lamour
+lamèr
+lanat
+lanba
+lanbarkasyon
+lanben
+lanbrouy
+landmen 
+lanfèr
+lang
+langaj
+langan
+langiy
+langre
+langè par langè 
+lanik
+lanimozite
+lanizèt
+lanj
+lanj gardyen 
+lanjelis
+lank
+lanklum
+lanlve
+lanmbaratè
+lanni
+lanp
+lanpero
+lanse
+lansèt
+lant
+lantenn
+lantman
+lantren
+lanvlòp
+lanvèr
+lanòs
+lapandil
+lapandis
+lapat dipen 
+lapat gato 
+lapat kek 
+lapat klèr 
+lapat mou 
+lapen
+lapil
+laplui
+lapo bèf 
+lapo mòrd 
+lapo sèk 
+lapo zye 
+lapoplèksi
+lapostim
+lapoul fri 
+laprans
+laprèz
+lapyèr anraje de la Vachri 
+lapèch
+lapèn
+lar
+laranjman
+lardwaz
+larenn
+large
+larizle
+larj
+larjan
+larji
+larjœr
+lark-an-syèl
+larkòl
+larm
+larmen
+larminèt
+larmwa
+laroze
+larun
+larzan rouj 
+las
+lasann
+lase
+lasi paspartou 
+lasirans
+lasmenn ki vyen 
+lasmèl
+lasmèn pase 
+lasoup
+lasyèt
+lasyète
+lasèl
+lasèn 
+lasèv
+lasòs
+lat
+latet fonm blon 
+latet krote 
+latet prop 
+latonyen
+latronp
+latè nwa 
+latè sab 
+latèr disèl 
+latèr fort 
+latèr gra 
+latèr mou 
+latèt ape tournen 
+latèt blan 
+latèt dechou 
+latèt fromaj 
+lavabo
+lavaj
+lavalas
+lavatwar
+lave
+lavi
+lavman
+lavnir
+lavoka disrik 
+lavontaj
+lavur
+lavwar
+lavwenn
+lavyan sale 
+lavyann bef 
+lavyann chevrey 
+lavyann chval 
+lavyann hache 
+lavyolans
+lavyonn moudi 
+lavyòn gra 
+lavyòn kochon 
+lavyòn mache 
+lavèrtisman
+lavèrtu
+lavèt
+lay
+lazil
+le
+le dimanch 
+le maten 
+le midi 
+le nwit 
+le premye mwa 
+le swa 
+le ton pase 
+le trant 
+le ven 
+le vye ton 
+lebay
+lech
+lechap
+lechin
+legim
+legwiy a matla 
+legòn
+leje
+lejislatur
+lejitim
+lejitime
+lekipaj
+leko
+lekoutòr
+lekèl 
+lekòch
+lekòr
+lelefan
+lelye
+leme mye 
+lemon
+lemou
+lendi
+lendyenn
+lenflamasyon*
+lenflians
+lenj
+lenj dèsou 
+lenj lanwit 
+lenjennyè
+lenkadreuman
+lenmen
+lenn
+lenstruman
+lensòlantri
+leopar
+lepengn a kouch 
+lese
+lese kouri 
+lese tonbe 
+lestanp
+lete
+letri
+letrip
+letriye
+letu*
+letòf
+leu 
+leu plu tar 
+leusyeu
+leuven
+leve
+leve lamen 
+leve lamen kote Bondye 
+levit
+levye
+lez Etaz-Uni 
+lez apre-midi 
+lez-ot fwa 
+lezap
+lezar
+li
+li-mèm
+lib
+libèrte
+lichri
+liché
+lida
+likid
+likœr
+lila
+lim
+limidite
+limonad
+limyèr
+limè
+ling
+linyònmèn
+linèt
+lir
+liron
+lis
+lit
+liv
+lizyèr
+lo beni 
+lo béni 
+lo d kòlogn 
+lo-d-grosès
+lod
+lodœr
+lokal
+lokazyon
+loke
+lokomotif
+lon
+lonb
+lonbraj
+longè
+lonmblèt
+lonrmgra
+lonsisèptik
+lontan
+lontan pase 
+lontch
+lontourmon
+lopera
+lopital
+lopresyon
+lor
+loraj lapli 
+loto
+lotri
+lotèl
+lotòn
+lou
+lougarou
+louj
+loulou
+loup
+lour
+lours
+lout
+loute
+louten
+lozey
+lozey sovaj 
+lumyèr 
+lun
+luniflkasyon
+lunyon
+lwa
+lwaye
+lwazir
+lwe
+lwen 
+lwen diferons 
+lwi
+lwil
+lwil a pirje 
+lwil d oliv 
+lwil fwa-d-mori 
+lwil kanfre 
+lwil lalonp 
+lwèt
+lyar
+lye
+lyetnan
+lyon
+lyonn
+lyàn*
+lyèj
+lèd
+lèksperyans*
+lèktœr
+lèkzim
+lèr
+lèrb
+lès konnen 
+lèskiz
+lèskòrbi
+lèson
+lèspèrvye
+lèst
+lèstoma milat 
+lèt
+lèv
+lèz
+lòg
+lòkupasyon
+lòpiyon
+lòrlòj
+lòrti
+lòrye
+lòt bòr 
+lòt jour 
+lòt kote 
+lœr
+lœr-tchèn
+lœrak
+ma 
+ma-d-milon
+mache
+machin
+machin a koud 
+machin dekann 
+machir
+machpen
+machwa
+machwaron
+madam
+madlenn
+madra
+madriye
+mag-nòlya
+magazen
+magazen mayi 
+magnen
+magnifik
+mai
+mai chalan 
+mai dou 
+mai tann 
+maji
+majinen
+major 
+majorite
+majèste
+mak de nesan 
+makak
+makakri
+makakriòch
+makaroni
+makchou
+makiyon
+makrèz
+mal
+mal a lèstoma 
+mal blon 
+mal bourik 
+mal de gòrj 
+mal de tet 
+mal o dan 
+mal o do 
+mal o kèr 
+mal o ren 
+mal o vant 
+mal o zye 
+mal zorey 
+malad
+maladi
+maladi de fonm 
+maladif
+malarya
+malchans
+malchanseu
+malediksyon
+malegonn
+malen
+malenng
+malenpasyon
+malere
+malerèzmon
+malfezan
+malgre
+malin
+malis
+malisyeu
+malome
+malè
+mamou
+mamzèl
+manch
+mande
+mande kolèksyon 
+mande laket 
+mande pardon 
+mandyan
+manej
+manifaktir
+manjab
+manjaye*
+manje
+manje*
+manjè-de-poul
+manke
+manmb
+mann
+mannde pou 
+mannejè
+manngk
+mannifaktir
+mano
+mansyonnè
+manti
+manton
+mantèr 
+map
+mar kafe
+maraye
+marb
+march
+marchan
+marchandiz
+marche
+marche dan so dòrmi 
+mardi
+mare
+marengwen
+marenn
+mareuz
+margote
+mari
+mari-salòp
+mark
+marke
+markònen
+marlechal
+marmit
+marodan 
+maron
+mars
+marten-pechè
+martir
+marto
+maryaj
+marye
+marye avek 
+marye bèk 
+marye rèjitim 
+maryonèt
+mas
+masakre
+mask
+maskarade
+maske
+mastòk
+matache
+matchèr
+mate
+maten
+matenyenng
+matinal
+matla
+matlo
+matou
+matris
+may
+maye
+mayi tak-tak 
+mayi-lòr
+mayonez
+me
+me par-tèr 
+mechan
+meday
+meday an kaspilèr 
+medikal
+medikaman
+mefyan 
+mefyans
+megri
+mekye
+melanje
+melyòre
+memwa
+memèr
+men
+menaj
+menaje
+menase
+mendolin
+mene lanbara 
+menen komèrs 
+mennen bèbè 
+mennen bèk 
+mennen dan latet 
+mennen dan moun 
+mennen di tren 
+mennen dibri 
+mennen kote lalwa 
+mennœv 
+mens
+mentnan
+menòt
+menòte
+meprize
+meren
+merite
+metal
+mete en grigri 
+metis
+metodis
+metye
+meyœr
+mezavantur
+mezon
+mezon d kour 
+mezon kadjen 
+mi
+midi
+midjit
+midonnen
+mignon
+migrèn
+mikmak
+mikwonn
+mil
+milat
+milat jonn 
+milat klè 
+milatrès
+milis
+milon
+milon di fwon 
+milou
+milye lamen 
+milyeu
+milyon 
+milyonnè
+min
+min lòr 
+minou
+minui
+minut
+mir
+mir taròt 
+mira
+miraini 
+mirak
+mire
+miriz
+mirizye
+mirtir
+mirwar
+mis
+miske
+mistek
+misteryeu
+mistèr
+misyeu
+misyon
+misyonèr
+mit
+miting 
+miting-haous
+miton
+mitray
+mitròz
+mizerab
+mizerikòrd
+mizo
+mizèr
+mlon
+mlon franse 
+mo
+mo-kèn 
+mo-mèm
+mobilyen
+modi
+modis
+moke
+mokèr
+mokèr dukann 
+mol
+mol kas-tèt 
+mole
+molton
+moman
+moman tete 
+momon poul 
+mon
+mongilie
+monje lèb 
+monman
+monn
+monrso d tèr 
+mont
+montagn
+monte
+montre
+montre lekòl 
+monye
+monye latèt 
+moralite
+morel
+mori
+moriko
+moriv
+morso
+morso d tèr 
+morso kandi 
+mortye
+morèt
+moso d buten 
+mot
+motche frè 
+mou
+mouch
+mouch a fe 
+mouche
+mouchwa
+mouchwa dèryè do 
+moul
+moule
+moulen
+moulen a gru 
+moulen a koton 
+moulen a si 
+moulen digri 
+moulen kafe 
+moulen mayi 
+mouline
+moulinèz
+moun d koulèr 
+moun lwil 
+moun lòt kote 
+mouri
+mouri-nesan
+mous
+mousket
+mouslin
+moustach
+moustik
+moustikèr
+moutard
+mouton
+mouyase
+mouye
+move 
+move cheuveu 
+move disan 
+move kèr 
+move lachanch 
+move lalin 
+move lèb 
+move mal 
+move rèv 
+move tan 
+move vivan 
+movez maladi 
+mul
+mule
+mule kreyòl 
+mur
+mur trennant 
+muri
+murye
+mus
+muskad
+muzik
+muzisyen
+mwa
+mwa pase 
+mwal
+mwatye
+mwayen
+mwazi
+mwens
+mwèt
+myete
+myeu 
+myèt
+mànyèr 
+mèch
+mèdsen
+mèdsin
+mèg
+mèksiken
+mèle
+mèm
+mèm chòj 
+mèmmon
+mènaye 
+mène
+mènè seray 
+mèr
+mèrd
+mèrdeu
+mèrkredi de sann 
+mèrkrèdi
+mèrliton
+mèrsi
+mès
+mèsaj
+mèsi Bondje 
+mèt
+mèt DOWN 
+mèt a langre 
+mèt a tèr 
+mèt de baton don le rou 
+mèt devan lalwa 
+mèt kouche 
+mèt latab 
+mèt li-menm an ta 
+mèt on 
+mèt on so non 
+mèt pare 
+mèt so vwal 
+mèt tèt e tèt onsanm 
+mète anddan 
+mètrès
+mèzan an brik 
+mèzur
+mèzure
+mòd
+mòr
+mòrd
+mòrdir
+mòtch
+mòtiriyal
+mœl
+na 
+na pa 
+na pa aryen mal 
+na pi 
+nabi
+naje
+nanj
+nanken
+nap
+narge
+nasyon
+nat
+natif
+natirèl
+naturèlman
+nave
+navige
+navir
+ne
+ne-doub
+ne-mouri
+ne-ni
+neg nwa 
+negray
+negriyon 
+negrès 
+nej
+neje
+nekren
+nen
+nenenn
+nenni
+nenpòrt
+nenpòrt ki plas 
+nenpòrt-ki 
+nenpòrt-kòman
+nenpòt ki moun 
+nenpòt ki mwòyen 
+nenpòt ki tan 
+nenpòt ki zafè 
+nenpòt kichòz 
+nenpòt-konmon fiy 
+nepengn a lenj 
+nepengn chapo 
+nepenng a twalèt 
+nepenng abit 
+neritaj 
+nesesèr
+net
+neu
+neuf
+nevyèm 
+neyèr
+ni 
+nich
+niche
+nichwar
+nik
+nik djèp 
+nimoni
+nipokrit
+niraji
+nivle
+nivo
+nivote
+nivèrsèr
+no
+nome
+non
+non-plu
+nonbri 
+nonk
+nonnon
+notifye
+notre-pè
+nou
+nou tou 
+nou-mèm
+nounoun
+nouri
+nouris
+nouritir
+nouvo
+nouvo lannen 
+nouvo-ne
+nouvèl
+nouvèl 
+nouvèl lin 
+nouzòt
+novanm
+novis
+noyo
+nu
+nuaj
+nul-pa
+nul-pa dòt 
+nul-plas 
+numero
+numero d telefonn 
+nwa
+nwa gal 
+nwa miskad 
+nwar
+nwarad
+nwaro
+nwarsi
+nwaye
+nwayo
+nwazèt
+nwit
+nyo
+nyounyoun
+nyès
+nèg
+nèglon
+nèksèpsyon
+nèni
+nèrf
+nèrvè
+nèsans
+nèt
+nètwaye
+nètwaye lakou 
+nètwaye pròp 
+nòm
+nòm lamal 
+nòr
+nòr-wèst
+nòtis
+o
+o bout 
+o bòr 
+o fon 
+o kalifourchon 
+o kouran 
+o lamotchi 
+o larj 
+o pre 
+obei
+obeisan
+oblije
+obsèrve
+odyans
+of
+ofis
+ofisye
+ofri
+ogmante
+oj
+ojourdui*
+oken 
+oksijèn
+okupe
+okupe apre 
+ole
+olye
+on
+on bra-kò 
+on bwa 
+on lœr 
+on mèm ton 
+on pon 
+on pwò 
+on tou le ka 
+on travèr 
+onfle
+onflir
+onkenne
+onmbrèl
+onni
+onpoule
+onrichi
+ont
+ontase
+onte
+ontren
+ontrepròn
+onz 
+onètman
+operasyon*
+ora 
+ora che 
+oraj*
+oranj
+ordonne
+orevwar
+oriye*
+osi
+osi vit 
+osito ke
+ot 
+otan
+ote
+ote lapousyè 
+oto
+otour 
+otour isit 
+otreman
+otè
+ou
+oubliye 
+oudle
+oumi
+oura
+ouragan
+ouvraj*
+ouvri
+ouvriye*
+ouvèr
+oze
+pa
+pa en fout 
+pa en mèd 
+pa fon 
+pa fouti 
+pa gayar 
+pa gen aryen pou fe avèk 
+pa gen bon latet 
+pa gran moun 
+pa konnen mye 
+pa lòt jour 
+pa mòtch 
+pa non-plu 
+pa osi 
+pa toujou 
+pa toutafe 
+padna
+pagay
+pagayar
+pagaye
+pak
+pak kochon 
+pak lavach-ye 
+pakangnè
+pakatap
+pake
+pakonen 
+pakàn
+pakòtiy
+pal
+pale
+pale segre 
+paleuron
+palmakristi*
+palonye doub 
+palonye senmp 
+palout
+palèt
+palèt depòl 
+palònye
+pan
+panari
+panche
+pand
+pandan 
+pangnen
+pank
+panm
+panm beni 
+pans
+panse
+pant
+pantalon
+pantur
+pap
+papa
+papiyon
+papiyòt
+papye
+papye sable 
+papye sigarèt 
+par
+par jour 
+par konsekans 
+par kœr 
+par maryaj 
+par ègzanp 
+par-anmba
+par-antour
+par-dèsu
+par-tèr
+parad
+parade
+paradi
+paradise was
+paralize
+paran 
+parante
+parasol
+paratonèr
+pardi
+pardon
+pardone
+pare
+pare lapli 
+pareman
+paren
+pares
+parese
+parey
+parey kòm 
+parfe
+pari
+parigori
+park
+parkwa
+parle
+parle gra 
+parle on 
+parle pour 
+parliaj
+parmi
+parpiyaj
+parpiye
+parskœ
+partaje
+partans
+parti
+parti dèryè 
+parti maron 
+partikilye
+partou
+partèr
+parwas
+parye
+parèt
+paròl
+paròl sal 
+pas
+pas en lepenng 
+pas-a-blan
+pas-paròl
+pas-pòrt
+pas-ton
+pasaj
+pasaje
+pase
+pase de remark 
+pase en lalwa 
+pase lakèt 
+paskè pou sa 
+paspartou
+pasyan
+pasyans
+pat
+pat deu chimij 
+pat-beuf
+patante
+patasa
+patasa grann-djœl 
+patasa nwar 
+patat
+patat dous 
+patat toufe 
+pate
+patouye
+patri
+patron
+patrouy
+patwa
+paw
+pay
+pay rozo 
+payaj
+payas
+payase
+paye
+pe
+pechèr
+pei
+pei-ba
+peizaj
+pel an tèlèfòn 
+pel si 
+pele anlèr 
+pelikan
+pen
+pen beni 
+pene
+pengn
+pengnen
+penitans
+penn
+penng 
+pennè
+penrèpèpent
+pense
+penso
+pensèt
+pent
+pental
+pentur
+penturè
+pepèr
+peri
+peril
+peròksid
+petar
+petarad
+petcha
+petri
+petèt
+peu
+peud-provab
+peye
+peze
+pi
+pi artezyen 
+pi neg 
+piblik
+piblikasyòne
+piblike
+pichou pi 
+pichoun
+pichout
+pichouèt
+pigbwa
+pigourwen
+pijon 
+pijonnyè
+pik
+pikan
+pikan 
+pikanke
+pikayon
+pike
+pikir
+piknik
+pikte
+pikòt
+pile
+pilo
+pilon
+pilon diri 
+pilote
+pilul
+pilyè
+pim
+piman
+piman anraje 
+piman cho 
+piman dou 
+piman jón 
+piman natirèl 
+piman rouj 
+piman vèr 
+pimante
+pimon bou 
+pin
+pini
+pip
+pip koton-mai 
+pip latè 
+pipis
+pir
+pirat
+pirizi
+pirje
+pirog
+pirwèt
+pis
+pis-an-li
+pisans
+pise
+pist
+pistach
+pistole
+pitcha
+pitenn
+piti
+piti kouzen 
+piti-zanfan
+piton
+pitou
+pitwayab
+pitye
+pivle
+pivye
+piyon
+pla
+pla manje 
+plafon
+plak
+plake
+plakmignen 
+plakmin 
+plan
+planch
+planche
+plant
+plant kann 
+plantasyon
+plante
+planten
+plas
+plasaj
+plase
+plase bèk 
+plastik
+plat
+plat-fòrm
+plati
+plato
+ple
+plede
+plen
+plen le fwa 
+plenn
+plenn-d-lun
+plent
+pleny
+pleri
+plezir
+pli
+pli bon-marche 
+plimaj
+plito
+pliye
+plonj
+plonje
+plonjèr
+plote
+plu
+plu jèn 
+plu lwen 
+plu vye 
+pluch
+pluche
+plum
+plumen
+pluzyœr 
+plwaye
+plèn
+plèr
+plòt
+plòt koton 
+plœre
+po
+po dolo 
+po kivyèt 
+pobon
+poch
+poezi
+poka
+pokapo
+pokino
+pol
+pol dekàn 
+poli
+polis
+polis juri 
+polismenn
+politik
+politisyen
+politès
+polkèt
+poltron
+pomèt
+pon
+pongnen
+pongnen a koud 
+ponje
+ponm laieti 
+ponm-deu-tèr
+ponmgranad
+ponn
+ponp
+ponpe
+ponpon
+ponpon mayi 
+ponponen
+ponpye
+ponse
+ponsyon
+popa chat 
+popilèr
+popyèr
+poro
+portre
+posede 
+posib
+posyon
+pota
+potans
+pote dey 
+poto
+potrin
+potrinèr
+pou
+pou bon 
+pou ka 
+pou mem 
+pou pa 
+pou sur 
+pou tou tan 
+pou toujour 
+poud
+poudre
+pouki
+poul
+poul dòminik 
+poul jenga 
+poul jengan 
+poul kreyòl 
+poulaye
+pouldo
+poule
+poulen
+pouli
+poulich
+poulèt
+poumon
+poupe
+pour 
+pourgatwa
+pouri
+pourpye
+poursan
+pourtan
+pous
+pousaye
+pouse 
+pouse soupir 
+pouste
+pousyèr
+pousyère
+poutin
+poutoutouf
+pouvwar
+pouyant
+pov bèt 
+poze
+pozisyon
+pralapaw
+pralin
+pran 
+pran kouraj 
+pran kredi 
+pran lafrech 
+pran lèr 
+pran pasaj pou 
+pran plas 
+pran rivanch anho 
+pran so tan 
+pran*
+pranga 
+prann devan 
+prann dèryè 
+prann en portre 
+prann lafrech 
+prann lakours 
+prann paròl 
+prann pasyans 
+praskala 
+pratik
+pratike
+pre 
+preche
+prefere
+prejuje
+prekosyon
+prenmyen kouzen 
+prens
+prensipal
+prensès
+prentan
+preparasyon
+prepare
+preskripsyon
+pretan
+pretèks
+prezan
+prezante
+prezidan
+pri
+prime
+prinèl
+prive
+priye
+priyèr
+priz
+prizon
+prizonnen
+prizonnyen
+proche
+prochen
+prodi
+produir
+profesè
+profi
+profite 
+profon
+profondèr
+profèsyon
+proje
+promete
+promi
+promès
+pron lavontaj 
+propoze
+propozisyòne
+prose
+prosede
+proteje
+protèksyon
+protèstan
+prouve
+provizyon
+prunye
+prèmye 
+prèmyè komiyon 
+prèmyè kouzin 
+prèmyè non 
+prèmyèrman
+prèse
+prèsk
+prèsyon
+prèt
+prète
+prèzum
+pròch
+pròch kote 
+pròch pare pou 
+pròmnad
+pròmne*
+prònons
+pròp
+pròsèsyon
+prœv
+ptidnesan
+punèz
+pur
+purite
+pwa
+pwal
+pwar
+pwarye
+pwason
+pwason armen 
+pwason avril 
+pwatrin
+pwazon
+pwazonnen
+pwazonnœr
+pwen
+pwengne
+pwent 
+pwente
+pwente l dwa apre 
+pwentu
+pwi
+pyas
+pye
+pye bouke 
+pye d flœr 
+pye defig 
+pye dekonn 
+pye demi nwa 
+pye demida 
+pye denwa 
+pye deprim 
+pye depwa 
+pye depèch 
+pye depòm 
+pye deròz 
+pye dibwa 
+pye gòmbo 
+pye laflè siro 
+pye lemon 
+pye lila 
+pye pakàn 
+pye patat 
+pye plat 
+pye sitron 
+pye tomat 
+pye zoranj 
+pyeu dbout
+pyeu dbout 
+pyoche
+pyocheuz
+pyèj
+pyèr
+pyèr tònèr 
+pyès
+pyès dekann 
+pyèste
+pyòch
+pèbon
+pèch
+pèch kit-nwayo 
+pèche
+pèchœr
+pèd latet 
+pèl
+pèlte
+pèntansyè
+pèpèrmid
+pèr
+pèrch
+pèrchwar
+pèrdi
+pèrdi gran-djœl 
+pèrdi pasyans 
+pèrdri
+pèrmi
+pèrmisyon
+pèrmèt
+pèroke
+pèrse
+pèrsi
+pèrsonn dòt 
+pèrsyade
+pèrsòn
+pèrt
+pèrt ton 
+pète en batay 
+pèyman
+pòk
+pòliman
+pòm
+pòm dechou 
+pòm jòn 
+pòmye
+pòpulasyon
+pòrt
+pòrt an vit 
+pòrt dèryèr 
+pòrt-mone
+pòrte
+pòrteuz*
+pòrto
+pòs
+pòstich
+pòt
+pòt fèr-blan 
+pòv
+pòv djab 
+pœr
+ra
+raboute
+rach lèrb 
+rache
+racheu
+radbwa
+radi
+radikal 
+rafal
+rafrèchi
+rafòrsi
+raid
+rakatcha
+rakle
+rakmodaj
+rakmode
+rakonte
+rakonte de kont 
+rakoursi
+rakèt*
+ramase
+ramase lakèt 
+ramen
+ramne
+ramo
+ramo beni 
+ramone
+ran
+ran-outan
+randi
+ranje
+ranje dezo 
+ranje la tab 
+ranje latab 
+ranjè souye
+ranjè souye 
+rankontre
+rankun
+rann
+rann en sèrvis 
+rann vizit a 
+ranp
+ranplase
+ranpli
+rans
+ransyon
+rant
+rant bèk 
+rantre
+ranvwaye
+ranvèrse
+rap*
+rape
+raple
+rapòrte
+rara
+ras
+rasanble
+rasazi
+rasi
+rasin
+rasire
+rasuran
+rat
+ratatinen
+rate
+rato
+ratonne
+ratèlye
+rave
+raze
+razwa
+re
+rebati
+rebèl
+rechanje
+recho
+rechonj
+rechose
+redi
+redouble
+redui
+redyo
+refize
+refredi
+refèrme
+refò
+regale
+regle
+regrete
+regulye 
+rejim
+rejwi
+rejyon
+reklamasyon
+reklame 
+rekoltè 
+rekomande
+rekonpans
+rekonpanse
+rekonèt
+rekòlt
+relijon
+remark
+remarke 
+remarye
+remi-menaj
+remor
+remèd
+remèt
+ren
+renar
+rense
+rentche
+rentonsyon
+rentonsyon d irin 
+repa
+repare
+repase
+repete
+reponn
+repons
+repoubliken 
+repoze
+reprezante
+repòn tèlèfòn 
+resevwa
+resi
+resite
+reste san 
+reste trankil 
+resusite
+resèpsyon
+retar
+retarde
+retir
+reubour
+reuchte
+reulod
+reumue
+reupo
+reusi
+reutournè
+revanje
+reve
+reveye 
+reveyon
+reveyèr
+revini
+revolt
+revolte
+revolusyon
+reyini
+reyon
+reyon solèy 
+reze
+rezen
+rezen rouj 
+rezen sek 
+rezen vè 
+reziman
+rezipèl
+rezistans
+reziste
+rezon 
+rezòne
+ri
+ri ant so moustach 
+ri apre 
+ri bon kèr 
+riban
+rich
+richar
+riches
+ride
+rido
+rifle
+rigòl
+riji
+rim potrin 
+rimen
+riske
+rivanch
+rive
+rivyèr
+rivòl
+rivòlvèr
+rob
+robinen
+rodaye
+rode
+rodomon
+rok
+roke
+rokèt
+rol
+romenn
+ron
+ron prose 
+ronden
+rondi
+ronfle
+rongnon
+rote
+roti
+rou
+rou gra 
+roubarb
+rouj
+rouj a babin 
+roujat
+roujòl
+roule 
+roulezon
+roulo
+roulèt
+roumatis
+roumen
+roupi
+rousi
+rout
+rouye
+roz
+roze
+rozo
+rozèt
+ru*
+ruine
+rum
+rum sèrvo 
+rwa
+rèd 
+règardan
+rèl
+rèlman
+rèn
+rèouvri
+rèputasyon
+rès
+rès dan det 
+rès malad 
+rèspe
+rèspektab
+rèspire
+rèsponsab
+rèspèkte
+rèstan
+rèste 
+rèste debout 
+rèste kanpe 
+rèste pri 
+rèstoran
+rèsèvwa piti 
+rèv
+ròf
+ròsignòl
+s 
+sa
+sa pron li par ton 
+sa-fe 
+sab
+saba
+sableu 
+sabo
+sabo chval 
+sabotyèr
+saboule
+sabre
+safetida
+safo
+safre
+saj
+sak
+sakale
+sakamite
+sakre
+sakre tònèr 
+sakreman
+sal
+sal a manje 
+salad
+sale
+sali
+salite
+saliv
+salmi
+salon
+salopri
+saloun
+salpèt
+salwe
+samdi
+san
+san defans 
+san souf 
+san sès 
+san-frwa
+sanble
+sangle
+sanm konm de gout dolo 
+sannale
+sansib
+sansibleman
+sansu 
+sant
+santans
+sante
+santi
+santi pi 
+santiman
+santrifij
+santèn
+sardin
+sasafrwa
+sasakwa
+satisfe
+savan
+savannèt
+savat
+savon
+savonn
+savonneu
+savònen
+se
+se du 
+seduizant 
+segon
+segonen
+segre
+sele
+selebre
+selera
+seleri
+semen
+sen
+sen-sou
+sena
+senatris
+senatœr
+senbo
+sengnen
+sengulye
+senj
+senk 
+senk œr 
+senkant 
+senkyèm 
+senmè
+sennen
+senp
+senpleman
+sentur
+senturon
+senye
+separasyon
+separe
+seran
+seray
+sere
+sere lamen 
+seremoni
+seren
+serenad
+sereng
+seye
+seyon
+sezon
+sezone
+sezònman
+si
+si latab 
+si vit konm 
+si-fe
+si-tan
+si-ton ke 
+sibit
+siblenm
+sibouy
+sifl
+sifle
+siga
+sigal
+sigarèt
+sign
+signal
+signen
+sigògn
+sije
+sik ròf 
+sikadril
+sikatris
+siklón
+sikre
+sikro
+sil
+sila 
+silenn
+simagri
+siman
+simityèr
+sinativ
+sinelye dou 
+singgo
+sinon
+sip
+sipliye
+sipre
+siprièr
+sir
+sirie
+sirk
+sirkule
+sirmonte
+siro
+sirpran
+sis 
+sis-flèr
+sise
+sisi
+sispand
+siten
+sitran
+sivil
+sivilize
+siye
+siyo
+siz èskalen 
+sizle
+sizo
+skalawag
+skandal
+skapilèr
+skarlatin
+skif
+skrep
+slipa
+slou
+smart 
+smèn
+snelye
+snelye pwazon 
+snèl
+so
+so-kèn 
+sochèt
+soda
+soda-gato
+sofa
+soko
+soldja 
+soley
+soley ba 
+soley kouche 
+soley leve 
+solitèr
+solivo
+somey
+someye
+somir
+son
+son mil a lè 
+sone
+sonm 
+sorgo
+sose
+sosi
+sosis
+sosison
+sosyete
+sot
+sotaye
+sote
+sote lakòd 
+soti byen 
+soti egal 
+soti parey 
+sou
+souch
+soude
+soudèr
+souf
+soufle
+souflemantèr
+soufri martir 
+soufèr
+soukoup
+soukouyar
+soukouye
+soukouye latèt 
+soulaje
+soular
+soule
+soulve
+soulye
+soumarouba
+soupe
+soupir
+soupson
+sour
+sour-e-mèt
+souri
+souri-chòd
+sourie
+sours
+sousi-zye
+souskripsyon
+souskriptœr
+soutendè
+soutni
+soutyen
+soutèren
+souvan
+souvant fwa 
+souvnir
+sovaj
+sovajès
+sove
+sperit
+spesyal
+splida
+spot
+spèktak
+stasyon
+statu
+stenn
+stil
+stimbot
+stipefe
+stov
+stov on fèr 
+stupid
+stòr
+sud
+sue
+suivi
+suk
+sukrœri
+sulki
+supoze
+supèrb
+supèrstisyon
+supòrte
+sur
+surtou
+surveye
+swa
+swa-dizon 
+swaf
+swagneuzman
+swanp
+swanpè
+swar
+sware
+swasant 
+swasant-dis 
+swayen
+swen
+swete
+swi
+swip
+swiv
+swonye
+swèr
+swèra
+swèt
+syo
+syè-lit
+syèk
+syèl
+syèrj
+sèchrès
+sèk
+sèkretèz
+sèksyon
+sèletek
+sèptanm
+sèrbakàn
+sère kòm sardin 
+sèrjan
+sèrkle
+sèrkœy
+sèrmon
+sèrmonte
+sèrpan
+sèrpan dezèf 
+sèrpan dolo 
+sèrpan fwèt 
+sèrpan koulèv 
+sèrpan sonèt 
+sèrsèl
+sèrten
+sèrtènman
+sèrur
+sèruriye
+sèrvan
+sèrvi
+sèrvis
+sèrvyèt
+sèrvèl
+sèryeu
+sès
+sèt 
+sètyèm 
+sèvre
+sèz 
+sèzi
+sòk
+sòl
+sònèt
+sòr
+sòrchye
+sòrsyèr
+sòrt
+sòrti
+sòrti klèr 
+sœl 
+sœlman
+sœr
+ta
+tab
+taba
+taba chike 
+tabatyè
+tabliye
+tablèt
+tach
+tache
+tafya
+tak-tak
+take
+takinen
+takoun
+taks
+tal
+tal fromi 
+tale
+talon
+talon ho 
+talèr
+tam
+tamize
+tan
+tan d trèf 
+tan ke 
+tan pa 
+tande
+tandi
+tandron
+tank
+tanmbe dòrmi 
+tanmbour
+tann
+tann di 
+tannde pou 
+tanpri
+tanpèt
+tant
+tante
+tanto
+tap
+tapaj
+tapchal
+tapi
+tapoche
+tar
+taratantan-tonbe-leve
+tarde
+tarji
+tart
+tas
+taso
+tatanos
+tate
+tatè gri 
+tay
+taye
+tayo
+tayon
+tchak
+tchake
+tchakweyl
+tcharara
+tche
+tchefrout
+tchek
+tchen apre 
+tchik
+tchike
+tchobo la konvèrsasyon 
+tchobo lakonvasasyon 
+tchombo kanmponyen 
+tchonbon
+tchoup
+tchoup choupik 
+tchoup gro vant 
+tchu
+tchurout
+tchwe kriye 
+tchwe tan 
+tchyen ansanm 
+tchòk
+tchòkòt
+tchòris
+te
+telefonn san fil 
+telefòn
+telegraf
+telegrafe
+temwen
+tenk
+tenkina
+tenmbre
+tenn
+tennesi
+terebantin
+terib
+teton
+teutay
+teyat
+ti
+ti boug 
+ti bouton 
+ti bœf 
+ti dwa 
+ti fiy 
+ti garson 
+ti kana 
+ti kiyèr 
+ti lasenn 
+ti non 
+ti pap 
+ti pip 
+ti poule 
+ti pwa 
+ti-garson
+tidye lametsin 
+tifòid
+tig
+tigri
+tij
+tikèt
+tiraye
+tiraye an 
+tire 
+tire de vis 
+tire en lakous 
+tire en plan 
+tire en portre 
+tire kanik 
+tire on grondœ 
+tire pay 
+tirwar
+tiròr
+tise
+tit pikòt 
+tit tòr 
+tit-anfan
+tit-fly
+titch
+titis
+tivi
+tiyo
+tiyon
+tizon
+tizàn*
+to
+to-kèn 
+tode
+tomat
+tomat kreyòl 
+ton
+ton d vach 
+ton ma vi 
+tonb
+tonbe 
+tonbe an feblès 
+tonbe dakòr 
+tonbe dan difikulte 
+tonbe dan difîkulte 
+tonk
+tonmbo
+tonn
+tonn-fen
+tonèr me chen 
+torch
+toro
+tortu
+tortu du 
+tortu gran tcheu 
+tortu sòteuz 
+toti mobilyen 
+tou 
+tou antour 
+tou bonnmon 
+tou chonje 
+tou fe 
+tou kichoj 
+tou krache 
+tou la journen 
+tou lanwit 
+tou lasmenn 
+tou le de 
+tou le de jour 
+tou le jour 
+tou le maten 
+tou le mwa 
+tou le senk 
+tou le swa 
+tou le sèmenn 
+tou lez apre-midi 
+tou moun 
+tou nèt 
+tou par isi 
+tou par isit 
+tou partou 
+tou plen 
+tou ron 
+tou sœl 
+tou-l-tan
+touche
+toujour
+toupe
+toupi
+tour
+tourbiyon 
+tourdi
+tourdikoli
+tourdisman
+tourman
+tourman-tèit
+tourmante
+tourmantis
+tournavis
+tournaye
+tournaye tou kote 
+tourne
+tournen
+tournen ann 
+tournen bèk 
+tournen do 
+tournen lalanng 
+tournen lanvè 
+tournen latèt 
+tournen of 
+tourt
+tourterèl
+tous
+tous 
+touse
+tout spès d 
+tout sòrt 
+toutafe
+trafik
+trai
+traka
+trakase 
+trakase apre 
+tranasont
+tranblan-tèr
+tranble
+tranch
+tranche
+trangle
+trangnen
+trankil
+trankilman
+tranp
+tranp a lanaj 
+tranpe
+transfere
+trant 
+trap
+trape
+trapé laplui 
+tras
+travay a senkyèm 
+travay an lamotche 
+travay an twazyenm 
+travay o kar 
+travay par jou 
+travayan
+travaye 
+travaye on 
+travèr
+travèrs-lapòrt
+travèrse
+travèrsen
+tre
+tren
+trenke
+trepase
+trepete
+tres
+trese lay 
+trete
+tretœr
+trezòr
+tri
+tribin
+trik
+triko
+tripe
+tripote
+tris
+trit
+triye
+tro
+tronpe 
+tronpet
+tropik
+trou
+trou dolo 
+troub
+trouble
+trouloulou
+troup
+troupo
+trouve
+trouve en bebe 
+trwa 
+trwa-kar
+trwazyenm 
+trwèl
+trèch
+trècha
+trèf
+trèk
+trèkta
+trènaye
+trèno
+trèr
+très
+trèse
+trèt
+trètmon
+trèto
+trèz 
+tròk
+tròs
+tròte
+tue
+tumœr
+tuteye
+twa
+twal
+twalèt
+tyedi
+tyen
+tyèd
+tàn pou 
+tèknik
+tèl
+tèl kòm 
+tèl kòm sa-la 
+tèlman
+tèlman ke 
+tèlèvizyon
+tèn
+tènis
+tèr
+tèrbolize
+tèri
+tèritwar
+tèrm
+tèrmomèt
+tèryèr
+tès
+tèt
+tèt nu 
+tèt-d-oriye
+tète
+tò
+tònwa
+tònè
+tònèr
+tòpe
+tòpèt
+tòr
+tòrchon
+tòrde
+tòrkèt
+tòrne
+tòrti bayou 
+tòrti kawenn 
+tòrti mis 
+tòrti mohilyen 
+tòrti piyant 
+tòrti sipriyè 
+tòrtiyan
+tòrtiye
+tòrtu mòl 
+uit 
+ulsèr
+umid
+uze
+va
+va byen ansanm 
+va chèrche 
+va lachas 
+vach
+vagabon
+vakans
+vakarm
+vale
+vals
+valse
+valèr
+van
+vandredi
+vanis
+vanjans
+vanje
+vann
+vanne
+vanntri
+vant
+vantay
+vante
+vantre
+vantrilòg
+vanté
+vantœr 
+vapèr
+vayan 
+vaz
+vazlin
+ven
+venar
+venn-sen-sou
+vennan
+venson
+vent an 
+vera
+veri
+verite
+vermin
+verou
+veso
+vesèl
+vetiver
+veu
+veu di 
+veu min 
+veu pa 
+veuv
+vey
+veyaye
+veye
+veyèz
+vi
+vid
+vide
+vif
+vign
+vil
+vilajye
+vilen
+vilen monyen 
+vilen paroi 
+vilen parol 
+vilvòken
+vimvam
+vineg
+vinegrèt
+vinerè
+vini 
+vini UP 
+vini byen 
+vini bèk 
+vini chèrche 
+vini dou 
+vini fre 
+vini geri 
+vini kone 
+vini konè 
+vini mi 
+vini myeu 
+vini o le 
+vini pli mal 
+vini pou 
+vini pou et 
+vini prop 
+vini vyeu 
+violon
+vire
+virvir
+vis
+vise
+vit
+vit konm lapoud 
+vit kòm en neklè 
+vitman
+vitre
+viv
+vivon
+vivye
+viyole
+viz-a-vi 
+vizaj
+vize
+vizit
+vizit doktè 
+vizite
+vizyon
+vo
+vo pè en foud 
+vo-kèn 
+vo-mye
+volan
+volante
+volay
+vole
+vole pa d lapenn 
+volich
+voliche
+volonte
+volè 
+vomi
+vomisman
+vonnwi
+vot
+vote
+vou
+vou-mèm 
+voudou
+voue
+vouzòt
+voy lamen 
+voyaj
+voye
+voye chèche 
+voye dèryè 
+voye kou pye 
+vre
+vreman 
+vu
+vwa
+vwa bèk 
+vwal
+vwala
+vwatur
+vwayaje
+vwazen
+vwazin
+vwazinaj
+vyann
+vye djab 
+vye fom 
+vye garson 
+vye jou 
+vye mòm 
+vye pòp 
+vye tan passe 
+vyen a monke 
+vyen ankò 
+vyen pare 
+vyen war 
+vyeu
+vyeu nòm 
+vyeu paron 
+vyey fiy 
+vyole
+vyolèt
+vyèrj
+vyèyès
+vè a tèr 
+vèksasyon
+vèle
+vèr
+vèr solitèr 
+vèrbèr
+vèrdir
+vèrje
+vèrmin farin 
+vèrtifich
+vèrve
+vètrinen
+vòl
+vòl-o-van
+vòltije
+vòye deyòr 
+wa
+wa pa 
+wa pou 
+wa-tou-di-ryen
+wachbot
+wachman
+wagon
+wanga
+wap 
+wara
+wawaron 
+waya
+wi
+wi wa 
+winro
+wiski
+wistiti
+wityèm 
+yad
+ye
+ye de 
+ye gen 
+ye tou 
+ye-kèn 
+ye-mèm
+yenk
+yenki
+yuit è 
+yè apre-midi 
+yèr
+yèr apre-midi 
+zabone
+zafèr
+zalimèt
+zalon
+zamand
+zamannman
+zamidal
+zan 
+zanbrasad
+zandrwa
+zanimo
+zapranti
+zariko
+zariko nwar 
+zariko parese 
+zariko vèr 
+zarin
+zartyèr
+zarèt
+zaydiko nen 
+zegret
+zegret ble 
+zegret blon 
+zela
+zendèmnite
+zenk
+zepis
+zepouze
+zepron
+zerison
+zerons
+zetaj
+zetensèl
+zetrèn
+zevènman
+zigzag
+zimaj
+zimans
+zing
+zirab
+zonbi
+zonng
+zonyon
+zoranj
+zoranje
+zordi
+zouti
+zozo
+zumilyant
+zwa
+zwazo
+zwazo bleu 
+zwazo flœr 
+zwazo paradi 
+zwi
+zwit
+zyeu
+zyeu louj 
+zyeu negwiy 
+zyè kroch 
+zèf
+zèr-boutey
+zèrb
+zèrbay
+zès
+zòrtey nèg 
+zòrtèy
+zòrèy
+Èiti
+ègwin
+ègzaminen
+ègzanp
+ègziste
+èksekite
+èksite
+èkskurzyon*
+èksploze
+èksplozyon
+èkspoze
+èksprèsyon
+èksre
+èkstèrminen
+èksèpte
+èl
+èl-mèm 
+èla
+èlvè on 
+èmoraji
+ènan lantan 
+ènn èr 
+èpsann
+èrni
+èrop
+èrvini
+ès-pa
+èsans
+èskalen
+èskalye
+èskize
+èsklav
+èsklavaj
+èskous
+èskè
+èspere
+èsplike
+èspri
+èspwa
+èspès
+èstoma
+èstravage
+èstropye
+èt
+òg
+òktob
+ònœr*
+òpere
+òrd
+òrfeulen
+òtòmobil 
+œr
+œr deu tan 
+œrœ
+œrœzman
