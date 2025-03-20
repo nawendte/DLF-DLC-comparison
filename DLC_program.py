@@ -165,13 +165,13 @@ for _ in dlc_ipa:
         dummy_list.append(_)
 dlc_ipa = dummy_list[:]
 
-# Write the IPA of the headwords to a new file
+# Write the IPA of the headwords to a new file.
+# Can't add number lines because it'll mess up matching
 
 hand2 = open("dlc_ipa.txt", "w")
-idx = 1
 for _ in dlc_ipa:
-    hand2.write(str(idx) + ". [" + _ + "]" + "\n")
-    idx += 1
+    hand2.write("[" + _ + "]" + "\n")
+
 hand2.close()
 
 # This was astoundingly easy! Ah, the benefits of a phonemic

@@ -196,18 +196,15 @@ def lanes_rules(list_original):
 
 # Next up, I need to apply all of these rules to my dlf ipa
 # Then, I need to save them to a new list and save that to a new file
+# Can't number the lines or it messes up matching
 
 dlf_trans = []
 dlf_trans = lanes_rules(dlf_ipa)
 dlf_trans.sort()
 
 hand2 = open("dlf_trans.txt", "w")
-idx = 0
 for _ in dlf_trans:
-    hand2.write(str(idx))
-    hand2.write(". ")
     hand2.write(_)
-    idx += 1
 hand2.close()
 
 # This was a good way to test my lanes_rules function
